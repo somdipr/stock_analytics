@@ -1,0 +1,9 @@
+﻿Account number,Account name,Symbol,Description,Quantity,Last price,Last price change,Current value,Today's gain/loss dollar,Today's gain/loss percent,Total gain/loss dollar,Total gain/loss percent,Percent of account,Cost basis total,Average cost basis,Type
+TEST12345,Test Individual - TOD,AAPL,APPLE INC,4.000,$200.00 ,($0.03),"$800.00 ",($1.00),-0.12%,"$200.00 ",33.33%,10.00%,"$600.00 ",$150.00 ,Margin
+TEST12345,Test Individual - TOD,GLD,SPDR GOLD TR GOLD SHS,3.500,$300.00 ,($1.50),"$1,050.00 ",($5.00),-0.50%,"$50.00 ",5.00%,60.00%,"$1,000.00 ",$285.71 ,Margin
+TEST12345,Test Individual - TOD,GLD,SPDR GOLD TR GOLD SHS,1.250,$300.00 ,($1.50),"$375.00 ",($2.00),-0.50%,"$25.00 ",7.00%,20.00%,"$350.00 ",$280.00 ,Cash
+TEST12345,Test Individual - TOD,SPAXX**,HELD IN MONEY MARKET,,,,"$200.00 ",,,,,10.00%,,,Cash
+,,,,,,,,,,,,,,,
+"The data and information in this spreadsheet is provided to you solely for your use and is not for distribution. SYNTHETIC TEST FIXTURE."
+,,,,,,,,,,,,,,,
+Date downloaded Jul-16-2026 10:05 p.m ET,,,,,,,,,,,,,,,
